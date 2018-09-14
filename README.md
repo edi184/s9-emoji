@@ -15,4 +15,4 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the Samsung variant.
 
 ## Links
 
-[Latest stable Magisk](http://www.tiny.cc/latestmagisk)
+[Latest stable Magisk](https://github.com/topjohnwu/Magisk/releases/download/v17.1/Magisk-v17.1.zip)
