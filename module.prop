@@ -1,0 +1,7 @@
+id=s9-emoji
+name=S9 Emoji for Magisk
+version=v1
+versionCode=1
+author=edi194
+description=S9 Emojis for Android (Pie supported)
+minMagisk=17000
